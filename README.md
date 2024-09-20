@@ -21,9 +21,9 @@ From **version control** to **container orchestration** and **infrastructure aut
 ---
 
 ### 🌱 **Learning & Growing**
-I’m committed to expanding my expertise and staying at the cutting edge of DevOps practices. 
+I’m committed to expanding my expertise and staying at the cutting edge of DevOps practices and more.
 
-### Certificate 
+### Certificates
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
