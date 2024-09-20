@@ -23,6 +23,7 @@ From **version control** to **container orchestration** and **infrastructure aut
 ### 🌱 **Learning & Growing**
 I’m committed to expanding my expertise and staying at the cutting edge of DevOps practices and more.
 
+---
 
 ### 🏆 **Badges**
 
@@ -32,7 +33,7 @@ I’m committed to expanding my expertise and staying at the cutting edge of Dev
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/3dd5216f-cf1d-40ca-8a8b-55341fbc16fa "AWS Certified Cloud Practitioner")
 <!--END_SECTION:badges-->
 
-
+---
 
 ### 🌿 **Explore My Digital Garden**
 
